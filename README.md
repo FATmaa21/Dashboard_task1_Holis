@@ -12,7 +12,7 @@ Ce tableau de bord permet :
   
 ## Outils utilisés
 
-- Python
+- Python (sous VScode)
 - Pandas
 - Streamlit
 - Plotly

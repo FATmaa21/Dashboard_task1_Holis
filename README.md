@@ -20,7 +20,7 @@ Ce tableau de bord permet :
 ## Ressources
 
 Les fichiers excel ne sont pas rajoutés ici par soucis de taille et de confidentialité.
-! Bien vérifier et/ou modifier le nom des fichiers excel/csv pour éviter une erreur de chargement.
+Bien vérifier et/ou modifier le nom des fichiers excel/csv pour éviter une erreur de chargement!
 
 ## Lancer le dashboard
 

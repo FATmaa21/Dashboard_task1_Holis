@@ -17,10 +17,13 @@ Ce tableau de bord permet :
 - Streamlit
 - Plotly
 
-## Ressources
+## Sources de données
 
-Les fichiers excel ne sont pas rajoutés ici par soucis de taille et de confidentialité.
-Bien vérifier et/ou modifier le nom des fichiers excel/csv pour éviter une erreur de chargement!
+Ce dashboard utilise deux fichiers indispensables :
+- Procedes_Details.xlsx : Contient les métadonnées des procédés.
+- Procedes_Impacts.csv : Contient l'ensemble des scores d'impacts environnementaux.
+
+Note : Stocker ces fichiers dans le même répertoire que le fichier app.py pour assurer le bon chargement des données.
 
 ## Lancer le dashboard
 
